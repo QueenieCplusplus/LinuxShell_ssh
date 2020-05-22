@@ -9,7 +9,7 @@
        echo "cmd" | ssh [remote host name or its IP addr] bash
        
  
-* remotely connect and remotely running script file
+* remotely connect running script file, and return result in local
 
        cat script_name.sh | ssh [remote host name or its IP addr] bash
 
