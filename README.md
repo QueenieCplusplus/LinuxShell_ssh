@@ -1,12 +1,17 @@
 # LinuxShell_ssh
 
-* remotely connected and remotely executed
+* remotely connect and remotely execute cmd
 
        ssh [remote host name or its IP addr] cmd
        
        //
        
        echo "cmd" | ssh [remote host name or its IP addr] bash
+       
+ 
+* remotely connect and remotely running script file
+
+       cat script_name.sh | ssh [remote host name or its IP addr] bash
 
 * telnet in secure way
 
