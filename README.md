@@ -21,6 +21,37 @@
  
  * Generate key if not exist
  
+           ✗ ssh-keygen -t rsa -b 4096 -C "queeniecplusplus@gmail.com"
+           
+        Generating public/private rsa key pair.
+        
+        Enter file in which to save the key (/Users/pintred/.ssh/id_rsa): key 
+        
+        [ Enter passphrase (empty for no passphrase): 
+        Enter same passphrase again: 
+        
+        Your identification has been saved in keyy.
+        
+        Your public key has been saved in keyy.pub.
+        
+        The key fingerprint is:
+        
+        SHA256:jH2Vo/6z1iEv0INPYMPTnRVBrWae6ErRPWqMdtYiLBO queeniecplusplus@gmail.com
+        
+        The key's randomart image is:
+        
+        +---[RSA 4096]----+
+        |              .++|
+        |             .  o|
+        |         . .+. + |
+        |       +  *+.o*  |
+        |      . E.+*.=x. |
+        |         =o+*o+. |
+        |        o B=B=.. |
+        |         = **.o  |
+        |          .oo+   |
+        +----[SHA256]-----+
+
       https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
   
   
