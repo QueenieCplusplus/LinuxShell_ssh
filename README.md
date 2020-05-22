@@ -17,7 +17,7 @@
  
          ls -al ~/.ssh
  
- https://help.github.com/en/github/authenticating-to-github/checking-for-existing-ssh-keys
+      https://help.github.com/en/github/authenticating-to-github/checking-for-existing-ssh-keys
  
  * Generate key if not exist
   
