@@ -1,5 +1,13 @@
 # LinuxShell_ssh
 
+* remotely connected and remotely executed
+
+       ssh [remote host name or its IP addr] cmd
+       
+       //
+       
+       echo "cmd" | ssh [remote host name or its IP addr] bash
+
 * telnet in secure way
 
         ssh -R [port of local host]:[remote host name or its IP addr]:[port of remote host]
