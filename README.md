@@ -15,7 +15,7 @@
 
  * Check key is exist or not
  
-         ls -al ~/.ssh
+         ls -al ~/.ssh //.ssh 是身份確認檔案，內容含有 private key
  
       https://help.github.com/en/github/authenticating-to-github/checking-for-existing-ssh-keys
  
