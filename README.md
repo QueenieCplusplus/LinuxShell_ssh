@@ -21,7 +21,7 @@
  
  * Generate key if not exist
  
-           ✗ ssh-keygen -t rsa -b 4096 -C "queeniecplusplus@gmail.com"
+        ✗ ssh-keygen -t rsa -b 4096 -C "queeniecplusplus@gmail.com"
            
         Generating public/private rsa key pair.
         
