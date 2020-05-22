@@ -8,5 +8,10 @@ telnet in secure way.
     
     ssh -l [loggin_account]
     
+    ssh -i [identify info]
+    // check version,
+    // if version is 1, then private key is in path of .ssh/identify
+    // if 2, then .ssh/id_rsa and .ssh/id_dsa
+    
     
     
